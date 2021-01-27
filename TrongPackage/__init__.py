@@ -1,1 +1,1 @@
-from TrongPackage.test import hello
+from TrongPackage.test import checkEven
